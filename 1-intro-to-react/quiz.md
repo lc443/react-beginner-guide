@@ -22,3 +22,4 @@ What is the output of this code?
 
 You can use a component in other components multiple times. tru or false?
 
+useState() hook can be used in class Components? true or false? false, they can only be used in functional components.
